@@ -12,3 +12,4 @@ def test_mysql():
 
 if __name__ == "__main__":
     test_mysql()
+    test_mysql()
